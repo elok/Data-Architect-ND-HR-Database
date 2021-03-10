@@ -12,11 +12,13 @@ As such, the HR department has tasked you, as the new data architect, to design 
 ## ERD - Entity Relationship Diagrams
 
 ### Conceptual ERD
-<img src='Screenshot_Question_1.1.png' width='600px'>
+<img src='Screenshot_ERD_Conceptual.png'>
+
 ### Logical ERD
-<img src='Screenshot_Question_1.1.png' width='600px'>
+<img src='Screenshot_ERD_Logical.png'>
+
 ### Physical ERD
-<img src='Screenshot_Question_1.1.png' width='600px'>
+<img src='Screenshot_ERD_Physical.png'>
 
 ## CRUD
 
@@ -39,3 +41,15 @@ As such, the HR department has tasked you, as the new data architect, to design 
 
 ### Question 6 - Write a query that returns current and past jobs (include employee name, job title, department, manager name, start and end date for position) for employee Toni Lembeck.
 <img src='Screenshot_Question_2.png' width='600px'>
+
+## Files
+
+[DDL SQL Commands](https://github.com/elok/Data-Architect-ND-HR-Database/blob/main/DDL_SQL_Commands.sql)
+
+[DML SQL Commands](https://github.com/elok/Data-Architect-ND-HR-Database/blob/main/DML_SQL_Commands.sql)
+
+[Crud SQL Commands](https://github.com/elok/Data-Architect-ND-HR-Database/blob/main/CRUD_SQL_Commands.sql)
+
+[Proposal PDF](https://github.com/elok/Data-Architect-ND-HR-Database/blob/main/Proposal.pdf)
+
+[HR dataset](https://github.com/elok/Data-Architect-ND-HR-Database/blob/main/hr-dataset.xlsx)
